@@ -1,0 +1,25 @@
+body{
+    background-color: #867171;
+}
+
+.box{
+    width: 390px;
+    height: 648px;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 193px;
+    margin-bottom: 192px;
+}
+
+h2, p{
+    color: #2A254B;
+}
+
+.button{
+    width: 300px;
+    height: 48px;
+    color: #F9F9F9;
+    margin-left: 30px;
+    border: none;
+    border-radius: 5px;
+}
